@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "154567237058",
+    "project_id": "waco-product-app",
+    "storage_bucket": "waco-product-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154567237058:android:f60cf3ffac914fc0804a5b",
+        "android_client_info": {
+          "package_name": "org.andresalba.waco_product_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154567237058-0eqro17se60hr9rpdrqtimqgc1j9ui83.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.andresalba.waco_product_app",
+            "certificate_hash": "67b4df6d5859413a429d7e4eee58ac614b498a42"
+          }
+        },
+        {
+          "client_id": "154567237058-mb5lbm9i2va2l86ng62tq88lf2571hjf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYHLItFmA_RQv1fq5H-k9wAItYVFgDAbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154567237058-mb5lbm9i2va2l86ng62tq88lf2571hjf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
